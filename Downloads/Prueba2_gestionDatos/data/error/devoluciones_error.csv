@@ -1,0 +1,29 @@
+devolucion_id,pedido_id,cliente_id,fecha_devolucion,motivo,estado_devolucion,monto_reembolso,fecha_reembolso,error_validacion
+D005,O0173,C044,2023-09-06,sin motivo,,113.19,2023-12-22,[nan 'float64']
+D006,O0128,C026,2023-12-08,talla incorrecta,procesando,105.37,2024-03-25,"<StringArray>
+['procesando']
+Length: 1, dtype: str"
+D007,O0031,C011,2024-10-01,no era lo esperado,,312.23,2024-08-06,[nan 'float64']
+D011,O0054,C054,2024-06-28,llegó tarde,procesando,94.05,2023-02-24,"<StringArray>
+['procesando']
+Length: 1, dtype: str"
+D014,O0122,C013,2024-12-11,sin motivo,,282.37,2024-01-14,[nan 'float64']
+D016,O0098,C079,2024-08-21,producto defectuoso,,213.8,,[nan 'float64']
+D025,O0184,C050,2024-04-09,producto defectuoso,procesando,260.72,2024-11-24,"<StringArray>
+['procesando']
+Length: 1, dtype: str"
+D026,O0106,C025,2023-03-05,no era lo esperado,procesando,310.78,2024-04-11,"<StringArray>
+['procesando']
+Length: 1, dtype: str"
+D028,O0127,C028,2024-07-10,sin motivo,procesando,349.98,2024-02-27,"<StringArray>
+['procesando']
+Length: 1, dtype: str"
+D029,O0015,C035,2024-02-18,producto defectuoso,procesando,448.37,2024-01-04,"<StringArray>
+['procesando']
+Length: 1, dtype: str"
+D031,O0083,C021,2023-12-18,llegó tarde,procesando,321.07,2024-01-28,"<StringArray>
+['procesando']
+Length: 1, dtype: str"
+D037,O0018,C068,2023-08-10,daño en envío,,229.77,2023-01-20,[nan 'float64']
+D040,O0026,C005,2024-11-16,producto defectuoso,,114.26,,[nan 'float64']
+D049,O0010,C074,2024-02-25,sin motivo,,440.5,2024-02-28,[nan 'float64']

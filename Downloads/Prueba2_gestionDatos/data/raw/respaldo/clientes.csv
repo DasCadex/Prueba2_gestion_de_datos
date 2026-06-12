@@ -1,0 +1,84 @@
+cliente_id,nombre,email,telefono,ciudad,pais,fecha_registro,edad,genero
+C001,Roberto Díaz,cliente1@gmail.com,946913810,Concepción,Chile,,45,F
+C002,Ana Martínez,cliente2@hotmail.COM,,La Serena,Chile,2023-13-45,69,Masculino
+C003,Sofía Herrera,test3@mail.cl,947295260,temuco,Chile,,34,
+C004,pedro silva,cliente4@gmail.com,123,Iquique,Chile,2022-10-07,150,F
+C005,Camila Torres,cliente5@hotmail.COM,no tiene,temuco,CHILE,2022-06-07,-5,NaN
+C006,Sofía Herrera,cliente6@hotmail.COM,123,Rancagua,CHILE,2023-13-45,43,femenino
+C007,Andrés Vega,,no tiene,SANTIAGO,Chile,,34,F
+C008,CARLOS LOPEZ,,958586340,Rancagua,CL,4/3/2023,,F
+C009,María González,test9@mail.cl,,Antofagasta,Argentina,,35,F
+C010,María González,correo_invalido,+56968353204,Antofagasta,Argentina,2023-13-45,treinta,F
+C011,Ana Martínez,cliente11@hotmail.COM,,Santiago,Argentina,2023-13-45,-5,F
+C012,María González,cliente12@gmail.com,919289546,Concepción,Chile,,-5,NaN
+C013,Diego Muñoz,CLIENTE13@GMAIL.COM,+56963551839,temuco,CL,2024-08-04,treinta,NaN
+C014,Ana Martínez,,+56919528530,Santiago,CHILE,,35,
+C015,Ana Martínez,,no tiene,La Serena,Chile,hoy,,
+C016,Camila Torres,CLIENTE16@GMAIL.COM,+56917270733,Santiago,CL,,,Masculino
+C017,Luis Rodríguez,test17@mail.cl,,Valparaíso,Chile,25/4/2023,,femenino
+C018,Camila Torres,test18@mail.cl,+56917869910,SANTIAGO,chile,,,Masculino
+C019,Ana Martínez,correo_invalido,+56987736262,Rancagua,Chile,,treinta,Masculino
+C020,Juan Pérez,,,Valparaíso,Chile,,treinta,F
+C021,CARLOS LOPEZ,CLIENTE21@GMAIL.COM,123,Antofagasta,CHILE,2023-13-45,47,M
+C022,Ana martinez,,,La Serena,Argentina,2023-13-45,,NaN
+C023,Sofía Herrera,correo_invalido,+56992097999,Rancagua,chile,,150,F
+C024,Ana Martínez,CLIENTE24@GMAIL.COM,123,Rancagua,CL,2023-13-45,150,Masculino
+C025,Roberto Díaz,correo_invalido,+56984045292,SANTIAGO,Argentina,,150,F
+C026,pedro silva,cliente26@hotmail.COM,123,temuco,Chile,2020-06-07,treinta,MALE
+C027,Carla Fuentes,CLIENTE27@GMAIL.COM,941774346,SANTIAGO,Chile,26/7/2023,28,F
+C028,CARLOS LOPEZ,cliente28@gmail.com,no tiene,temuco,chile,hoy,39,m
+C029,juan pérez,CLIENTE29@GMAIL.COM,123,Santiago,Chile,2022-03-19,150,F
+C030,CARLOS LOPEZ,,,La Serena,chile,,64,femenino
+C031,juan pérez,test31@mail.cl,,temuco,Chile,hoy,43,m
+C032,pedro silva,cliente32@hotmail.COM,no tiene,Concepción,Argentina,2023-13-45,,F
+C033,Carla Fuentes,CLIENTE33@GMAIL.COM,no tiene,La Serena,Argentina,2023-13-45,60,F
+C034,juan pérez,cliente34@gmail.com,951663795,Concepción,Chile,hoy,74,F
+C035,Ana Martínez,CLIENTE35@GMAIL.COM,976354180,Concepción,Chile,14/4/2023,79,NaN
+C036,Ana martinez,cliente36@gmail.com,no tiene,Concepción,Chile,2023-13-45,,F
+C037,Camila Torres,CLIENTE37@GMAIL.COM,no tiene,Concepción,Chile,2023-13-45,treinta,
+C038,Roberto Díaz,cliente38@hotmail.COM,+56920399639,Antofagasta,CHILE,18/2/2023,,Masculino
+C039,Sofía Herrera,cliente39@hotmail.COM,123,Rancagua,CL,hoy,treinta,M
+C040,Camila Torres,,123,Antofagasta,Chile,,-5,
+C041,Ana Martínez,correo_invalido,no tiene,temuco,Chile,27/8/2023,treinta,M
+C042,Andrés Vega,test42@mail.cl,+56989442503,Valparaíso,Chile,2023-03-28,150,femenino
+C043,Ana martinez,correo_invalido,no tiene,Antofagasta,Chile,2020-08-01,-5,F
+C044,Diego Muñoz,CLIENTE44@GMAIL.COM,914164775,Santiago,Argentina,2021-04-05,-5,
+C045,Sofía Herrera,correo_invalido,,Valparaíso,Chile,2023-13-45,,MALE
+C046,Sofía Herrera,cliente46@hotmail.COM,989470029,Valparaíso,Chile,,150,NaN
+C047,CARLOS LOPEZ,CLIENTE47@GMAIL.COM,+56977908907,temuco,Chile,hoy,,Masculino
+C048,Sofía Herrera,,,valparaíso,CL,9/6/2023,71,m
+C049,Andrés Vega,test49@mail.cl,,SANTIAGO,chile,hoy,150,F
+C050,Luis Rodríguez,,,La Serena,Chile,16/9/2023,48,
+C051,Ana martinez,cliente51@gmail.com,no tiene,La Serena,chile,2023-13-45,treinta,F
+C052,juan pérez,CLIENTE52@GMAIL.COM,123,La Serena,Chile,24/9/2023,31,
+C053,Luis Rodríguez,CLIENTE53@GMAIL.COM,123,Valparaíso,Chile,2023-13-45,treinta,Masculino
+C054,Luis Rodríguez,cliente54@gmail.com,+56949209916,Concepción,Chile,2023-13-45,,F
+C055,Carlos López,cliente55@gmail.com,+56943887075,SANTIAGO,CL,22/1/2023,treinta,m
+C056,María González,cliente56@hotmail.COM,,Iquique,Chile,hoy,150,F
+C057,CARLOS LOPEZ,correo_invalido,,Valparaíso,Chile,2021-11-07,-5,NaN
+C058,María González,cliente58@hotmail.COM,+56970465583,Iquique,CL,2023-13-45,,F
+C059,Roberto Díaz,cliente59@hotmail.COM,+56989160218,La Serena,CL,2023-13-45,70,M
+C060,Carlos López,correo_invalido,no tiene,Valparaíso,CL,,49,F
+C061,Juan Pérez,test61@mail.cl,+56953261270,Valparaíso,CHILE,2023-13-45,-5,
+C062,pedro silva,CLIENTE62@GMAIL.COM,,SANTIAGO,Chile,2023-13-45,38,Masculino
+C063,juan pérez,test63@mail.cl,no tiene,Rancagua,Chile,2023-02-11,,NaN
+C064,Camila Torres,cliente64@gmail.com,no tiene,Santiago,CHILE,hoy,-5,m
+C065,pedro silva,cliente65@hotmail.COM,+56948658617,Santiago,Chile,,,F
+C066,Ana Martínez,cliente66@gmail.com,925766039,valparaíso,Chile,hoy,-5,
+C067,pedro silva,cliente67@hotmail.COM,,Concepción,Chile,2023-13-45,treinta,m
+C068,Camila Torres,cliente68@gmail.com,,valparaíso,Chile,2023-13-45,treinta,MALE
+C069,Ana martinez,correo_invalido,no tiene,La Serena,Chile,hoy,60,Masculino
+C070,Ana martinez,cliente70@gmail.com,123,Valparaíso,Chile,15/1/2023,73,Masculino
+C071,María González,test71@mail.cl,+56993652460,SANTIAGO,Chile,hoy,38,
+C072,Camila Torres,,992874006,Antofagasta,CHILE,2020-07-04,28,m
+C073,Andrés Vega,cliente73@gmail.com,123,temuco,chile,,-5,Masculino
+C074,Carlos López,cliente74@gmail.com,+56993176117,La Serena,CL,2023-13-45,34,M
+C075,Andrés Vega,test75@mail.cl,+56948605268,valparaíso,chile,2023-13-45,150,femenino
+C076,CARLOS LOPEZ,test76@mail.cl,,temuco,Argentina,hoy,treinta,M
+C077,Andrés Vega,,,temuco,CHILE,22/12/2023,24,M
+C078,Luis Rodríguez,test78@mail.cl,+56958970845,Concepción,Chile,14/3/2023,treinta,F
+C079,pedro silva,,no tiene,Antofagasta,Chile,3/3/2023,61,MALE
+C080,Camila Torres,,+56959093496,Antofagasta,Argentina,2023-13-45,42,F
+C001,Juan Pérez,cliente1@gmail.com,+56912345678,Santiago,Chile,2022-03-15,34,M
+C002,María González,cliente2@hotmail.COM,+56987654321,Valparaíso,Chile,2021-07-22,28,F
+C010,Carlos López,cliente10@gmail.com,+56911111111,Concepción,Chile,2023-01-10,45,Masculino

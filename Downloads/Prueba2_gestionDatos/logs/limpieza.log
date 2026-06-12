@@ -1,0 +1,18 @@
+2026-06-11 20:32:25,255 - INFO - ====== ETAPA 2: LIMPIEZA ======
+2026-06-11 20:32:25,257 - INFO - inciando liempieza de usuario / clientes :D
+2026-06-11 20:32:25,259 - INFO - datos duplicados eliminados: 0
+2026-06-11 20:32:25,263 - INFO - Columna nueva creada: rango_etario
+2026-06-11 20:32:25,265 - INFO - Clientes limpios: 62 filas
+2026-06-11 20:32:25,268 - INFO - Guardado: data/processed/clientes_clean.csv
+2026-06-11 20:32:25,268 - INFO - iniciando la limpieza de productos :D
+2026-06-11 20:32:25,272 - INFO - Productos limpios: 17 filas
+2026-06-11 20:32:25,273 - INFO - Guardado: data/processed/productos_clean.csv
+2026-06-11 20:32:25,274 - INFO - iniciando la limpiezax de los pedidos :D
+2026-06-11 20:32:25,277 - INFO - Total recalculado correctamente
+2026-06-11 20:32:25,280 - INFO - Pedidos limpios: 197 filas
+2026-06-11 20:32:25,282 - INFO - Guardado: data/processed/pedidos_clean.csv
+2026-06-11 20:32:25,283 - INFO - inicinado limpieza de devoluciones :D
+2026-06-11 20:32:25,286 - INFO - Devoluciones limpias: 44 filas
+2026-06-11 20:32:25,286 - INFO - Guardado: data/processed/devoluciones_clean.csv
+2026-06-11 20:32:25,286 - INFO - Tiempo: 0:00:00.030813
+2026-06-11 20:32:25,287 - INFO - ====== FIN ETAPA 2 ======

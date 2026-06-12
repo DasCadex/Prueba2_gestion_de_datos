@@ -1,0 +1,18 @@
+producto_id,nombre,categoria,precio,stock,peso_kg,activo,proveedor,rango_precio
+P009,Auriculares BT,Juguetes,165.97,75,9.12,Sí,,medio
+P010,CAMISETA XL,Deportes,209.84,0,,Sí,TechSupply,premium
+P019,Tablet 10,Deportes,356.2,0,12.5,Sí,ModaTotal,premium
+P022,Libro Python,Juguetes,462.46,0,-1.5,No,ModaTotal,premium
+P031,Libro Python,Juguetes,227.22,0,2.99,No,TECH SUPPLY,premium
+P034,libro python,Hogar,121.71,182,5.1,Sí,TechSupply,medio
+P036,Zapatillas Running,Ropa,321.28,0,-1.5,Sí,TECH SUPPLY,premium
+P042,laptop pro,Libros,45.89,0,,Sí,TechSupply,economico
+P046,Zapatillas Running,Ropa,261.28,0,,No,,premium
+P047,Camiseta XL,Hogar,228.76,81,,Sí,CasaIdeal,premium
+P049,Tablet 10,Ropa,202.09,0,,Sí,ModaTotal,premium
+P052,Tablet 10,Libros,297.95,43,10.84,Sí,ModaTotal,premium
+P053,Laptop Pro,Juguetes,288.21,127,,No,,premium
+P057,CAMISETA XL,Libros,231.33,72,9.85,Sí,TechSupply,premium
+P060,Mouse Gamer,Hogar,103.53,0,-1.5,Sí,CasaIdeal,medio
+P001,Laptop Pro,Electrónica,349.99,15,2.1,Sí,TechSupply,premium
+P002,Camiseta XL,Ropa,19.99,100,0.3,Sí,ModaTotal,economico

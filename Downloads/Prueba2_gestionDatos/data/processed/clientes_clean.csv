@@ -1,0 +1,63 @@
+cliente_id,nombre,email,telefono,ciudad,pais,fecha_registro,edad,genero,rango_etario
+C001,Roberto Díaz,cliente1@gmail.com,946913810,Concepción,CHILE,,45.0,Femenino,adulto_mayor
+C002,Ana Martínez,cliente2@hotmail.COM,,La Serena,CHILE,,69.0,Masculino,senior
+C003,Sofía Herrera,test3@mail.cl,947295260,Temuco,CHILE,,34.0,,adulto
+C006,Sofía Herrera,cliente6@hotmail.COM,123,Rancagua,CHILE,,43.0,femenino,adulto
+C007,Andrés Vega,sin_correo@gmail.com,no tiene,Santiago,CHILE,,34.0,Femenino,adulto
+C008,Carlos Lopez,sin_correo@gmail.com,958586340,Rancagua,CL,2023-04-03,43.0,Femenino,adulto
+C009,María González,test9@mail.cl,,Antofagasta,ARGENTINA,,35.0,Femenino,adulto
+C010,María González,correo_invalido,+56968353204,Antofagasta,ARGENTINA,,43.0,Femenino,adulto
+C013,Diego Muñoz,CLIENTE13@GMAIL.COM,+56963551839,Temuco,CL,2024-08-04,43.0,,adulto
+C014,Ana Martínez,sin_correo@gmail.com,+56919528530,Santiago,CHILE,,35.0,,adulto
+C015,Ana Martínez,sin_correo@gmail.com,no tiene,La Serena,CHILE,,43.0,,adulto
+C016,Camila Torres,CLIENTE16@GMAIL.COM,+56917270733,Santiago,CL,,43.0,Masculino,adulto
+C017,Luis Rodríguez,test17@mail.cl,,Valparaíso,CHILE,2023-04-25,43.0,femenino,adulto
+C018,Camila Torres,test18@mail.cl,+56917869910,Santiago,CHILE,,43.0,Masculino,adulto
+C019,Ana Martínez,correo_invalido,+56987736262,Rancagua,CHILE,,43.0,Masculino,adulto
+C020,Juan Pérez,sin_correo@gmail.com,,Valparaíso,CHILE,,43.0,Femenino,adulto
+C021,Carlos Lopez,CLIENTE21@GMAIL.COM,123,Antofagasta,CHILE,,47.0,Masculino,adulto_mayor
+C022,Ana Martinez,sin_correo@gmail.com,,La Serena,ARGENTINA,,43.0,,adulto
+C026,Pedro Silva,cliente26@hotmail.COM,123,Temuco,CHILE,2020-06-07,43.0,MALE,adulto
+C027,Carla Fuentes,CLIENTE27@GMAIL.COM,941774346,Santiago,CHILE,2023-07-26,28.0,Femenino,adulto
+C028,Carlos Lopez,cliente28@gmail.com,no tiene,Temuco,CHILE,,39.0,Masculino,adulto
+C030,Carlos Lopez,sin_correo@gmail.com,,La Serena,CHILE,,64.0,femenino,adulto_mayor
+C031,Juan Pérez,test31@mail.cl,,Temuco,CHILE,,43.0,Masculino,adulto
+C032,Pedro Silva,cliente32@hotmail.COM,no tiene,Concepción,ARGENTINA,,43.0,Femenino,adulto
+C033,Carla Fuentes,CLIENTE33@GMAIL.COM,no tiene,La Serena,ARGENTINA,,60.0,Femenino,adulto_mayor
+C034,Juan Pérez,cliente34@gmail.com,951663795,Concepción,CHILE,,74.0,Femenino,senior
+C035,Ana Martínez,CLIENTE35@GMAIL.COM,976354180,Concepción,CHILE,2023-04-14,79.0,,senior
+C036,Ana Martinez,cliente36@gmail.com,no tiene,Concepción,CHILE,,43.0,Femenino,adulto
+C037,Camila Torres,CLIENTE37@GMAIL.COM,no tiene,Concepción,CHILE,,43.0,,adulto
+C038,Roberto Díaz,cliente38@hotmail.COM,+56920399639,Antofagasta,CHILE,2023-02-18,43.0,Masculino,adulto
+C039,Sofía Herrera,cliente39@hotmail.COM,123,Rancagua,CL,,43.0,Masculino,adulto
+C041,Ana Martínez,correo_invalido,no tiene,Temuco,CHILE,2023-08-27,43.0,Masculino,adulto
+C045,Sofía Herrera,correo_invalido,,Valparaíso,CHILE,,43.0,MALE,adulto
+C047,Carlos Lopez,CLIENTE47@GMAIL.COM,+56977908907,Temuco,CHILE,,43.0,Masculino,adulto
+C048,Sofía Herrera,sin_correo@gmail.com,,Valparaíso,CL,2023-09-06,71.0,Masculino,senior
+C050,Luis Rodríguez,sin_correo@gmail.com,,La Serena,CHILE,2023-09-16,48.0,,adulto_mayor
+C051,Ana Martinez,cliente51@gmail.com,no tiene,La Serena,CHILE,,43.0,Femenino,adulto
+C052,Juan Pérez,CLIENTE52@GMAIL.COM,123,La Serena,CHILE,2023-09-24,31.0,,adulto
+C053,Luis Rodríguez,CLIENTE53@GMAIL.COM,123,Valparaíso,CHILE,,43.0,Masculino,adulto
+C054,Luis Rodríguez,cliente54@gmail.com,+56949209916,Concepción,CHILE,,43.0,Femenino,adulto
+C055,Carlos López,cliente55@gmail.com,+56943887075,Santiago,CL,2023-01-22,43.0,Masculino,adulto
+C058,María González,cliente58@hotmail.COM,+56970465583,Iquique,CL,,43.0,Femenino,adulto
+C059,Roberto Díaz,cliente59@hotmail.COM,+56989160218,La Serena,CL,,70.0,Masculino,senior
+C060,Carlos López,correo_invalido,no tiene,Valparaíso,CL,,49.0,Femenino,adulto_mayor
+C062,Pedro Silva,CLIENTE62@GMAIL.COM,,Santiago,CHILE,,38.0,Masculino,adulto
+C063,Juan Pérez,test63@mail.cl,no tiene,Rancagua,CHILE,2023-02-11,43.0,,adulto
+C065,Pedro Silva,cliente65@hotmail.COM,+56948658617,Santiago,CHILE,,43.0,Femenino,adulto
+C067,Pedro Silva,cliente67@hotmail.COM,,Concepción,CHILE,,43.0,Masculino,adulto
+C068,Camila Torres,cliente68@gmail.com,,Valparaíso,CHILE,,43.0,MALE,adulto
+C069,Ana Martinez,correo_invalido,no tiene,La Serena,CHILE,,60.0,Masculino,adulto_mayor
+C070,Ana Martinez,cliente70@gmail.com,123,Valparaíso,CHILE,2023-01-15,73.0,Masculino,senior
+C071,María González,test71@mail.cl,+56993652460,Santiago,CHILE,,38.0,,adulto
+C072,Camila Torres,sin_correo@gmail.com,992874006,Antofagasta,CHILE,2020-07-04,28.0,Masculino,adulto
+C074,Carlos López,cliente74@gmail.com,+56993176117,La Serena,CL,,34.0,Masculino,adulto
+C076,Carlos Lopez,test76@mail.cl,,Temuco,ARGENTINA,,43.0,Masculino,adulto
+C077,Andrés Vega,sin_correo@gmail.com,,Temuco,CHILE,2023-12-22,24.0,Masculino,joven
+C078,Luis Rodríguez,test78@mail.cl,+56958970845,Concepción,CHILE,2023-03-14,43.0,Femenino,adulto
+C079,Pedro Silva,sin_correo@gmail.com,no tiene,Antofagasta,CHILE,2023-03-03,61.0,MALE,adulto_mayor
+C080,Camila Torres,sin_correo@gmail.com,+56959093496,Antofagasta,ARGENTINA,,42.0,Femenino,adulto
+C001,Juan Pérez,cliente1@gmail.com,+56912345678,Santiago,CHILE,2022-03-15,34.0,Masculino,adulto
+C002,María González,cliente2@hotmail.COM,+56987654321,Valparaíso,CHILE,2021-07-22,28.0,Femenino,adulto
+C010,Carlos López,cliente10@gmail.com,+56911111111,Concepción,CHILE,2023-01-10,45.0,Masculino,adulto_mayor

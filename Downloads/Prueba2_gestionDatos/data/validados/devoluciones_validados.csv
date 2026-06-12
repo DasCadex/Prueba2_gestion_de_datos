@@ -1,0 +1,31 @@
+devolucion_id,pedido_id,cliente_id,fecha_devolucion,motivo,estado_devolucion,monto_reembolso,fecha_reembolso
+D001,O0186,C072,2024-06-27,talla incorrecta,aprobada,481.71,2024-10-01
+D002,O0045,C053,2023-09-03,sin motivo,rechazada,402.46,2024-12-15
+D003,O0145,C062,2023-06-25,no era lo esperado,aprobada,431.7,2023-05-03
+D004,O0163,C029,2023-06-14,daño en envío,aprobada,9.81,2023-05-03
+D008,O0102,C029,2023-01-17,no era lo esperado,aprobada,21.12,pendiente
+D009,O0176,C023,2024-02-23,sin motivo,aprobada,10.85,2024-10-04
+D010,O0093,C079,2024-03-18,talla incorrecta,aprobada,238.32,2024-03-16
+D013,O0128,C018,2024-08-10,daño en envío,aprobada,28.62,2023-01-07
+D017,O0021,C021,2024-04-11,llegó tarde,aprobada,304.67,2024-08-25
+D018,O0192,C076,2024-07-06,producto defectuoso,aprobada,365.25,2023-04-06
+D019,O0027,C013,2023-08-18,producto defectuoso,rechazada,264.37,2023-05-20
+D020,O0022,C050,2024-04-08,no era lo esperado,aprobada,69.98,2023-01-22
+D021,O0084,C061,2024-09-09,producto defectuoso,aprobada,92.63,2024-09-21
+D022,O0089,C062,2023-02-15,sin motivo,rechazada,133.6,2023-01-17
+D023,O0089,C037,2024-09-01,no era lo esperado,aprobada,9.52,2024-10-08
+D027,O0039,C007,2023-03-04,llegó tarde,aprobada,359.02,2023-02-05
+D032,O0029,C031,2024-06-01,llegó tarde,aprobada,64.23,
+D033,O0011,C075,2024-12-20,sin motivo,rechazada,128.12,2023-11-20
+D034,O0195,C008,2023-06-21,daño en envío,rechazada,67.28,2024-09-26
+D035,O0207,C057,2023-01-23,sin motivo,aprobada,129.09,2024-12-15
+D038,O0199,C080,2023-06-24,daño en envío,rechazada,98.99,2023-10-10
+D039,O0105,C042,2023-02-17,producto defectuoso,aprobada,93.43,2023-02-16
+D041,O0054,C063,2023-08-26,sin motivo,aprobada,373.02,2024-12-02
+D042,O0136,C006,2023-05-03,daño en envío,rechazada,55.11,2024-04-07
+D043,O0146,C023,2024-12-04,no era lo esperado,rechazada,442.0,2023-09-13
+D044,O0169,C021,2024-06-11,sin motivo,rechazada,383.27,2024-10-08
+D046,O0078,C001,2024-04-07,producto defectuoso,aprobada,459.96,2023-01-15
+D047,O0040,C018,2024-06-19,talla incorrecta,aprobada,406.48,2024-10-07
+D050,O0192,C078,2023-11-25,producto defectuoso,aprobada,264.57,2023-06-17
+D001,O0005,C003,2024-04-10,producto defectuoso,aprobada,49.99,2024-04-15

@@ -1,0 +1,63 @@
+producto_id,nombre,categoria,precio,stock,peso_kg,activo,proveedor
+P001,Camiseta XL,electronica,0,156,,True,ModaTotal
+P002,Camiseta XL,Hogar,27.45,-5,5.63,True,CasaIdeal
+P003,Escritorio Madera,Deportes,0,-5,,False,casaIdeal
+P004,libro python,hogar,,-5,9.66,True,casaIdeal
+P005,Zapatillas Running,Hogar,415.76,-5,5.0,1,CasaIdeal
+P006,Silla Ergonómica,Libros,129.07,-5,,True,CasaIdeal
+P007,Teclado Mecánico,Deportes,,92,6.83,True,TECH SUPPLY
+P008,Libro Python,Electrónica,gratis,muchos,-1.5,False,CasaIdeal
+P009,Auriculares BT,Juguetes,165.97,75,9.12,True,
+P010,CAMISETA XL,deportes,209.84,,,true,TechSupply
+P011,Camiseta XL,Ropa,gratis,95,,True,ModaTotal
+P012,CAMISETA XL,hogar,gratis,,-1.5,true,TechSupply
+P013,Zapatillas Running,Ropa,0,57,14.62,True,TECH SUPPLY
+P014,Laptop Pro,Hogar,0,46,9.89,False,
+P015,CAMISETA XL,Deportes,0,198,13.26,True,ModaTotal
+P016,Auriculares BT,deportes,0,55,1.75,,TECH SUPPLY
+P017,Laptop Pro,electronica,0,,1.89,SI,CasaIdeal
+P018,Silla Ergonómica,Deportes,gratis,101,0.73,0,ModaTotal
+P019,Tablet 10,Deportes,356.2,muchos,12.5,SI,ModaTotal
+P020,Zapatillas Running,Deportes,0,,11.71,,
+P021,Escritorio Madera,hogar,-20.0,,3.04,true,TechSupply
+P022,Libro Python,Juguetes,462.46,,-1.5,NO,ModaTotal
+P023,Libro Python,deportes,0,muchos,,False,ModaTotal
+P024,Tablet 10,Juguetes,,10,4.89,,CasaIdeal
+P025,Laptop Pro,deportes,gratis,-5,10.64,,CasaIdeal
+P026,laptop pro,hogar,gratis,161,5.01,1,TECH SUPPLY
+P027,Teclado Mecánico,Juguetes,-20.0,167,9.97,1,ModaTotal
+P028,Smartphone X,hogar,gratis,23,10.09,0,TECH SUPPLY
+P029,Silla Ergonómica,electronica,-20.0,39,7.66,True,casaIdeal
+P030,Escritorio Madera,Juguetes,,-5,,True,
+P031,Libro Python,Juguetes,227.22,muchos,2.99,NO,TECH SUPPLY
+P032,Mouse Gamer,Deportes,-20.0,154,9.65,,ModaTotal
+P033,Auriculares BT,Ropa,-20.0,muchos,13.96,True,ModaTotal
+P034,libro python,hogar,121.71,182,5.1,1,TechSupply
+P035,Teclado Mecánico,Hogar,380.63,-5,10.94,False,TECH SUPPLY
+P036,Zapatillas Running,ROPA,321.28,muchos,-1.5,true,TECH SUPPLY
+P037,CAMISETA XL,Electrónica,gratis,,1.11,SI,TechSupply
+P038,Laptop Pro,Deportes,,61,,true,TechSupply
+P039,laptop pro,Libros,gratis,122,2.11,True,TECH SUPPLY
+P040,Zapatillas Running,Electrónica,0,muchos,-1.5,1,casaIdeal
+P041,Pantalón Jeans,Electrónica,0,muchos,-1.5,NO,TechSupply
+P042,laptop pro,Libros,45.89,,,1,TechSupply
+P043,Tablet 10,Deportes,gratis,,9.63,False,ModaTotal
+P044,laptop pro,Libros,-20.0,muchos,,0,ModaTotal
+P045,Tablet 10,Electrónica,0,195,,True,TECH SUPPLY
+P046,Zapatillas Running,Ropa,261.28,,,NO,
+P047,Camiseta XL,Hogar,228.76,81,,1,CasaIdeal
+P048,Teclado Mecánico,Hogar,-20.0,35,8.63,,CasaIdeal
+P049,Tablet 10,Ropa,202.09,muchos,,True,ModaTotal
+P050,Libro Python,deportes,,-5,11.54,False,CasaIdeal
+P051,Auriculares BT,Hogar,116.61,-5,-1.5,True,TECH SUPPLY
+P052,Tablet 10,Libros,297.95,43,10.84,True,ModaTotal
+P053,Laptop Pro,Juguetes,288.21,127,,NO,
+P054,Mouse Gamer,Deportes,41.12,-5,,0,ModaTotal
+P055,Silla Ergonómica,hogar,259.92,-5,4.42,True,ModaTotal
+P056,Zapatillas Running,Hogar,-20.0,40,13.2,True,ModaTotal
+P057,CAMISETA XL,Libros,231.33,72,9.85,1,TechSupply
+P058,Pantalón Jeans,Ropa,,muchos,,,TECH SUPPLY
+P059,Camiseta XL,Deportes,143.46,-5,,,casaIdeal
+P060,Mouse Gamer,Hogar,103.53,,-1.5,True,CasaIdeal
+P001,Laptop Pro,Electrónica,349.99,15,2.1,True,TechSupply
+P002,Camiseta XL,Ropa,19.99,100,0.3,True,ModaTotal

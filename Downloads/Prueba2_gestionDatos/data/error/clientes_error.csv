@@ -1,0 +1,61 @@
+cliente_id,nombre,email,telefono,ciudad,pais,fecha_registro,edad,genero,rango_etario,error_validacion
+C003,Sofía Herrera,test3@mail.cl,947295260,Temuco,CHILE,,34.0,,adulto,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C010,María González,correo_invalido,+56968353204,Antofagasta,ARGENTINA,,43.0,Femenino,adulto,"<StringArray>
+['correo_invalido']
+Length: 1, dtype: str"
+C013,Diego Muñoz,CLIENTE13@GMAIL.COM,+56963551839,Temuco,CL,2024-08-04,43.0,,adulto,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C014,Ana Martínez,sin_correo@gmail.com,+56919528530,Santiago,CHILE,,35.0,,adulto,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C015,Ana Martínez,sin_correo@gmail.com,no tiene,La Serena,CHILE,,43.0,,adulto,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C019,Ana Martínez,correo_invalido,+56987736262,Rancagua,CHILE,,43.0,Masculino,adulto,"<StringArray>
+['correo_invalido']
+Length: 1, dtype: str"
+C022,Ana Martinez,sin_correo@gmail.com,,La Serena,ARGENTINA,,43.0,,adulto,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C026,Pedro Silva,cliente26@hotmail.COM,123,Temuco,CHILE,2020-06-07,43.0,MALE,adulto,"<StringArray>
+['MALE']
+Length: 1, dtype: str"
+C035,Ana Martínez,CLIENTE35@GMAIL.COM,976354180,Concepción,CHILE,2023-04-14,79.0,,senior,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C037,Camila Torres,CLIENTE37@GMAIL.COM,no tiene,Concepción,CHILE,,43.0,,adulto,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C041,Ana Martínez,correo_invalido,no tiene,Temuco,CHILE,2023-08-27,43.0,Masculino,adulto,"<StringArray>
+['correo_invalido']
+Length: 1, dtype: str"
+C045,Sofía Herrera,correo_invalido,,Valparaíso,CHILE,,43.0,MALE,adulto,"<StringArray>
+['correo_invalido', 'MALE']
+Length: 2, dtype: str"
+C050,Luis Rodríguez,sin_correo@gmail.com,,La Serena,CHILE,2023-09-16,48.0,,adulto_mayor,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C052,Juan Pérez,CLIENTE52@GMAIL.COM,123,La Serena,CHILE,2023-09-24,31.0,,adulto,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C060,Carlos López,correo_invalido,no tiene,Valparaíso,CL,,49.0,Femenino,adulto_mayor,"<StringArray>
+['correo_invalido']
+Length: 1, dtype: str"
+C063,Juan Pérez,test63@mail.cl,no tiene,Rancagua,CHILE,2023-02-11,43.0,,adulto,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C068,Camila Torres,cliente68@gmail.com,,Valparaíso,CHILE,,43.0,MALE,adulto,"<StringArray>
+['MALE']
+Length: 1, dtype: str"
+C069,Ana Martinez,correo_invalido,no tiene,La Serena,CHILE,,60.0,Masculino,adulto_mayor,"<StringArray>
+['correo_invalido']
+Length: 1, dtype: str"
+C071,María González,test71@mail.cl,+56993652460,Santiago,CHILE,,38.0,,adulto,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+C079,Pedro Silva,sin_correo@gmail.com,no tiene,Antofagasta,CHILE,2023-03-03,61.0,MALE,adulto_mayor,"<StringArray>
+['MALE']
+Length: 1, dtype: str"

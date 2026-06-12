@@ -1,0 +1,58 @@
+pedido_id,cliente_id,producto_id,fecha_pedido,cantidad,precio_unitario,descuento_pct,total,estado,metodo_pago,tiene_descuento,error_validacion
+O0019,C057,P008,2023-12-19,2.0,405.3,5.0,770.07,,webpay,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0022,C048,P058,2024-08-28,7.0,342.95,150.0,-1200.32,pendiente,efectivo,True,[150.]
+O0053,C074,P051,2023-06-13,7.0,61.37,20.0,343.67,,tarjeta,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0057,C006,P037,2024-06-26,2.0,53.81,20.0,86.1,,efectivo,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0086,C065,P019,2024-07-23,2.0,142.35,0.0,284.7,,efectivo,False,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0088,C056,P008,2024-10-20,5.0,64.12,150.0,-160.3,completado,tarjeta,True,[150.]
+O0095,C048,P038,2024-04-24,3.0,466.54,5.0,1329.64,,,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0102,C046,P026,2023-11-10,3.0,476.29,20.0,1143.1,,efectivo,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0107,C050,P009,2024-04-21,9.0,494.75,15.0,3784.84,,tarjeta,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0123,C027,P011,2024-02-16,5.0,238.12,0.0,1190.6,,webpay,False,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0125,C008,P010,2023-02-22,9.0,485.5,5.0,4151.02,,tarjeta,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0134,C048,P053,2023-09-26,2.0,356.24,5.0,676.86,,tarjeta,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0143,C052,P025,2023-10-23,6.0,344.73,10.0,1861.54,,transferencia,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0153,C080,P004,2023-11-04,1.0,211.3,0.0,211.3,,transferencia,False,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0175,C065,P035,2024-12-04,9.0,293.49,15.0,2245.2,,transferencia,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0179,C041,P036,2023-01-24,4.0,415.84,20.0,1330.69,,tarjeta,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0189,C050,P044,2023-09-01,10.0,351.94,10.0,3167.46,,efectivo,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0191,C029,P009,2024-09-10,5.0,478.91,20.0,1915.64,,tarjeta,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0198,C018,P058,2023-05-24,2.0,425.55,-5.0,893.66,completado,tarjeta,False,[-5.]
+O0210,C026,P034,2024-03-20,3.0,451.3,20.0,1083.12,,efectivo,True,"<StringArray>
+['float64']
+Length: 1, dtype: str"
+O0220,C046,P043,2024-07-19,9.0,369.78,0.0,3328.02,,transferencia,False,"<StringArray>
+['float64']
+Length: 1, dtype: str"

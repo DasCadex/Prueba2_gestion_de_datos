@@ -1,0 +1,15 @@
+2026-06-11 20:33:03,548 - INFO - ====== ETAPA 3: VALIDACIÓN ======
+2026-06-11 20:33:03,553 - INFO - === Validando: clientes (62 filas) ===
+2026-06-11 20:33:03,886 - INFO - Válidos:   42
+2026-06-11 20:33:03,887 - INFO - Inválidos: 20
+2026-06-11 20:33:03,888 - INFO - === Validando: productos (17 filas) ===
+2026-06-11 20:33:03,941 - INFO - Válidos:   17
+2026-06-11 20:33:03,941 - INFO - Inválidos: 0
+2026-06-11 20:33:03,942 - INFO - === Validando: pedidos (197 filas) ===
+2026-06-11 20:33:04,535 - INFO - Válidos:   176
+2026-06-11 20:33:04,535 - INFO - Inválidos: 21
+2026-06-11 20:33:04,537 - INFO - === Validando: devoluciones (44 filas) ===
+2026-06-11 20:33:04,714 - INFO - Válidos:   30
+2026-06-11 20:33:04,714 - INFO - Inválidos: 14
+2026-06-11 20:33:04,714 - INFO - Tiempo: 0:00:01.165984
+2026-06-11 20:33:04,714 - INFO - ====== FIN ETAPA 3 ======

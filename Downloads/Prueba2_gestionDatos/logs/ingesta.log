@@ -1,0 +1,228 @@
+2026-06-11 20:31:51,906 - INFO - ====== INICIO PIPELINE - ETAPA 1: INGESTA ======
+2026-06-11 20:31:51,906 - INFO - iniciando el data set clientes:D
+2026-06-11 20:31:51,908 - INFO - Archivo cargado: data/raw/clientes.csv
+2026-06-11 20:31:51,908 - INFO - shape: 83 filas y 9 columnas
+2026-06-11 20:31:51,908 - INFO - lista : ['cliente_id', 'nombre', 'email', 'telefono', 'ciudad', 'pais', 'fecha_registro', 'edad', 'genero']
+2026-06-11 20:31:51,909 - INFO - tipo de datos 
+: cliente_id        str
+nombre            str
+email             str
+telefono          str
+ciudad            str
+pais              str
+fecha_registro    str
+edad              str
+genero            str
+2026-06-11 20:31:51,910 - INFO - Valores nulos por columna:
+cliente_id         0
+nombre             0
+email             14
+telefono          19
+ciudad             0
+pais               0
+fecha_registro    18
+edad              15
+genero            19
+2026-06-11 20:31:51,911 - INFO - Duplicados: 0
+2026-06-11 20:31:51,912 - INFO - Copia guardada en: data/raw/respaldo/clientes.csv
+2026-06-11 20:31:51,912 - INFO - === Ingesta finalizada: clientes ===
+
+2026-06-11 20:31:51,912 - INFO - iniciando el data set productos:D
+2026-06-11 20:31:51,913 - INFO - Archivo cargado: data/raw/productos.csv
+2026-06-11 20:31:51,913 - INFO - shape: 62 filas y 8 columnas
+2026-06-11 20:31:51,913 - INFO - lista : ['producto_id', 'nombre', 'categoria', 'precio', 'stock', 'peso_kg', 'activo', 'proveedor']
+2026-06-11 20:31:51,914 - INFO - tipo de datos 
+: producto_id        str
+nombre             str
+categoria          str
+precio             str
+stock              str
+peso_kg        float64
+activo             str
+proveedor          str
+2026-06-11 20:31:51,914 - INFO - Valores nulos por columna:
+producto_id     0
+nombre          0
+categoria       0
+precio          7
+stock          11
+peso_kg        18
+activo          8
+proveedor       6
+2026-06-11 20:31:51,915 - INFO - Duplicados: 0
+2026-06-11 20:31:51,916 - INFO - Copia guardada en: data/raw/respaldo/productos.csv
+2026-06-11 20:31:51,916 - INFO - === Ingesta finalizada: productos ===
+
+2026-06-11 20:31:51,916 - INFO - iniciando el data set pedidos:D
+2026-06-11 20:31:51,917 - INFO - Archivo cargado: data/raw/pedidos.csv
+2026-06-11 20:31:51,917 - INFO - shape: 223 filas y 10 columnas
+2026-06-11 20:31:51,917 - INFO - lista : ['pedido_id', 'cliente_id', 'producto_id', 'fecha_pedido', 'cantidad', 'precio_unitario', 'descuento_pct', 'total', 'estado', 'metodo_pago']
+2026-06-11 20:31:51,918 - INFO - tipo de datos 
+: pedido_id              str
+cliente_id             str
+producto_id            str
+fecha_pedido           str
+cantidad             int64
+precio_unitario    float64
+descuento_pct        int64
+total              float64
+estado                 str
+metodo_pago            str
+2026-06-11 20:31:51,919 - INFO - Valores nulos por columna:
+pedido_id           0
+cliente_id          0
+producto_id         0
+fecha_pedido        1
+cantidad            0
+precio_unitario     2
+descuento_pct       0
+total               5
+estado             19
+metodo_pago        16
+2026-06-11 20:31:51,920 - INFO - Duplicados: 0
+2026-06-11 20:31:51,921 - INFO - Copia guardada en: data/raw/respaldo/pedidos.csv
+2026-06-11 20:31:51,921 - INFO - === Ingesta finalizada: pedidos ===
+
+2026-06-11 20:31:51,921 - INFO - iniciando el data set devoluciones:D
+2026-06-11 20:31:51,922 - INFO - Archivo cargado: data/raw/devoluciones.csv
+2026-06-11 20:31:51,922 - INFO - shape: 52 filas y 8 columnas
+2026-06-11 20:31:51,922 - INFO - lista : ['devolucion_id', 'pedido_id', 'cliente_id', 'fecha_devolucion', 'motivo', 'estado_devolucion', 'monto_reembolso', 'fecha_reembolso']
+2026-06-11 20:31:51,923 - INFO - tipo de datos 
+: devolucion_id            str
+pedido_id                str
+cliente_id               str
+fecha_devolucion         str
+motivo                   str
+estado_devolucion        str
+monto_reembolso      float64
+fecha_reembolso          str
+2026-06-11 20:31:51,923 - INFO - Valores nulos por columna:
+devolucion_id         0
+pedido_id             0
+cliente_id            0
+fecha_devolucion      1
+motivo               11
+estado_devolucion     8
+monto_reembolso       0
+fecha_reembolso       5
+2026-06-11 20:31:51,924 - INFO - Duplicados: 0
+2026-06-11 20:31:51,924 - INFO - Copia guardada en: data/raw/respaldo/devoluciones.csv
+2026-06-11 20:31:51,924 - INFO - === Ingesta finalizada: devoluciones ===
+
+2026-06-11 20:31:51,924 - INFO - Tablas ingestadas: ['clientes', 'productos', 'pedidos', 'devoluciones']
+2026-06-11 20:31:51,924 - INFO - Tiempo total: 0:00:00.018468
+2026-06-11 20:31:51,924 - INFO - ====== FIN ETAPA 1: INGESTA ======
+2026-06-11 20:32:20,579 - INFO - ====== INICIO PIPELINE - ETAPA 1: INGESTA ======
+2026-06-11 20:32:20,579 - INFO - iniciando el data set clientes:D
+2026-06-11 20:32:20,582 - INFO - Archivo cargado: data/raw/clientes.csv
+2026-06-11 20:32:20,582 - INFO - shape: 83 filas y 9 columnas
+2026-06-11 20:32:20,582 - INFO - lista : ['cliente_id', 'nombre', 'email', 'telefono', 'ciudad', 'pais', 'fecha_registro', 'edad', 'genero']
+2026-06-11 20:32:20,583 - INFO - tipo de datos 
+: cliente_id        str
+nombre            str
+email             str
+telefono          str
+ciudad            str
+pais              str
+fecha_registro    str
+edad              str
+genero            str
+2026-06-11 20:32:20,584 - INFO - Valores nulos por columna:
+cliente_id         0
+nombre             0
+email             14
+telefono          19
+ciudad             0
+pais               0
+fecha_registro    18
+edad              15
+genero            19
+2026-06-11 20:32:20,585 - INFO - Duplicados: 0
+2026-06-11 20:32:20,585 - INFO - Copia guardada en: data/raw/respaldo/clientes.csv
+2026-06-11 20:32:20,585 - INFO - === Ingesta finalizada: clientes ===
+
+2026-06-11 20:32:20,585 - INFO - iniciando el data set productos:D
+2026-06-11 20:32:20,586 - INFO - Archivo cargado: data/raw/productos.csv
+2026-06-11 20:32:20,586 - INFO - shape: 62 filas y 8 columnas
+2026-06-11 20:32:20,586 - INFO - lista : ['producto_id', 'nombre', 'categoria', 'precio', 'stock', 'peso_kg', 'activo', 'proveedor']
+2026-06-11 20:32:20,587 - INFO - tipo de datos 
+: producto_id        str
+nombre             str
+categoria          str
+precio             str
+stock              str
+peso_kg        float64
+activo             str
+proveedor          str
+2026-06-11 20:32:20,587 - INFO - Valores nulos por columna:
+producto_id     0
+nombre          0
+categoria       0
+precio          7
+stock          11
+peso_kg        18
+activo          8
+proveedor       6
+2026-06-11 20:32:20,588 - INFO - Duplicados: 0
+2026-06-11 20:32:20,588 - INFO - Copia guardada en: data/raw/respaldo/productos.csv
+2026-06-11 20:32:20,589 - INFO - === Ingesta finalizada: productos ===
+
+2026-06-11 20:32:20,589 - INFO - iniciando el data set pedidos:D
+2026-06-11 20:32:20,590 - INFO - Archivo cargado: data/raw/pedidos.csv
+2026-06-11 20:32:20,590 - INFO - shape: 223 filas y 10 columnas
+2026-06-11 20:32:20,590 - INFO - lista : ['pedido_id', 'cliente_id', 'producto_id', 'fecha_pedido', 'cantidad', 'precio_unitario', 'descuento_pct', 'total', 'estado', 'metodo_pago']
+2026-06-11 20:32:20,590 - INFO - tipo de datos 
+: pedido_id              str
+cliente_id             str
+producto_id            str
+fecha_pedido           str
+cantidad             int64
+precio_unitario    float64
+descuento_pct        int64
+total              float64
+estado                 str
+metodo_pago            str
+2026-06-11 20:32:20,591 - INFO - Valores nulos por columna:
+pedido_id           0
+cliente_id          0
+producto_id         0
+fecha_pedido        1
+cantidad            0
+precio_unitario     2
+descuento_pct       0
+total               5
+estado             19
+metodo_pago        16
+2026-06-11 20:32:20,592 - INFO - Duplicados: 0
+2026-06-11 20:32:20,593 - INFO - Copia guardada en: data/raw/respaldo/pedidos.csv
+2026-06-11 20:32:20,593 - INFO - === Ingesta finalizada: pedidos ===
+
+2026-06-11 20:32:20,593 - INFO - iniciando el data set devoluciones:D
+2026-06-11 20:32:20,594 - INFO - Archivo cargado: data/raw/devoluciones.csv
+2026-06-11 20:32:20,594 - INFO - shape: 52 filas y 8 columnas
+2026-06-11 20:32:20,594 - INFO - lista : ['devolucion_id', 'pedido_id', 'cliente_id', 'fecha_devolucion', 'motivo', 'estado_devolucion', 'monto_reembolso', 'fecha_reembolso']
+2026-06-11 20:32:20,595 - INFO - tipo de datos 
+: devolucion_id            str
+pedido_id                str
+cliente_id               str
+fecha_devolucion         str
+motivo                   str
+estado_devolucion        str
+monto_reembolso      float64
+fecha_reembolso          str
+2026-06-11 20:32:20,595 - INFO - Valores nulos por columna:
+devolucion_id         0
+pedido_id             0
+cliente_id            0
+fecha_devolucion      1
+motivo               11
+estado_devolucion     8
+monto_reembolso       0
+fecha_reembolso       5
+2026-06-11 20:32:20,596 - INFO - Duplicados: 0
+2026-06-11 20:32:20,596 - INFO - Copia guardada en: data/raw/respaldo/devoluciones.csv
+2026-06-11 20:32:20,596 - INFO - === Ingesta finalizada: devoluciones ===
+
+2026-06-11 20:32:20,596 - INFO - Tablas ingestadas: ['clientes', 'productos', 'pedidos', 'devoluciones']
+2026-06-11 20:32:20,596 - INFO - Tiempo total: 0:00:00.017539
+2026-06-11 20:32:20,596 - INFO - ====== FIN ETAPA 1: INGESTA ======
